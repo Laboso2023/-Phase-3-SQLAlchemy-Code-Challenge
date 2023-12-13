@@ -1,0 +1,8 @@
+class Review(Base):
+    # ... (previous code)
+
+    def customer(self):
+        return self.customer
+
+    def restaurant(self):
+        return self.restaurant
