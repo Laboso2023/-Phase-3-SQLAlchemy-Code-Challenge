@@ -1,4 +1,3 @@
-
 from database import Session
 from Migration import Base, engine, Restaurant, Customer, Review
 
