@@ -1,5 +1,5 @@
 from database import Session
-from Migration import Base, engine, Restaurant, Customer, Review
+from migration import Base, engine, Restaurant, Customer, Review
 
 def main():
     
